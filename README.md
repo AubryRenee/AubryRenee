@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aubry
+- 👀 I’m interested in using my creativity in coding
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on anything interesting, I'm a novice coder and I want to learn
+- 📫 How to reach me aubrycostas@gmail.com
